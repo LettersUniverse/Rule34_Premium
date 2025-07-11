@@ -1,0 +1,31 @@
+{
+  "format": "CHIP-0007",
+  "sensitive_content": false,
+  "name": "Rule34 Premium #30",
+  "description": "Captured in Premium NFT an exclusive moment that happen behind the universes\u0027 curtains.",
+  "series_number": 30,
+  "collection": {
+    "id": "c052f11f-6f05-4796-9da2-3f5449a48892",
+    "name": "Rule34 Premium",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "Premium NFT\u0027s. This isn\u0027t just another NFT set. These are forbidden digital artifacts, capturing those moments that happen behind the universes\u0027 curtains. Each token is a bold suggestion, frozen on the edge between explicitness and art."
+      },
+      {
+        "type": "icon",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Rule34_Premium/refs/heads/main/logo.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://raw.githubusercontent.com/LettersUniverse/Rule34_Premium/refs/heads/main/Bannere.png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Number of heroines",
+      "value": "1"
+    }
+  ]
+}
